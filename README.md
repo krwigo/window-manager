@@ -8,4 +8,4 @@ An [autoit](https://www.autoitscript.com) script to print the current datetime a
 - Place *window-manager.exe* in the *%appdata%\Microsoft\Windows\Start Menu\Programs\Startup* directory.
 
 ## Screenshot
-![screenshot-01](/krwigo/window-manager/assets/screenshot-01.jpg?raw=true)
+![screenshot-01](https://raw.githubusercontent.com/krwigo/window-manager/main/assets/screenshot-01.jpg)
